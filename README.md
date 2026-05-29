@@ -8,12 +8,12 @@ I'm a Chinese law student based in Germany, specializing in the intersection of 
 
 ## 🎓 Education
 
-- **M.Law – Informatik & Recht** · Friedrich-Alexander-Universität (FAU) · 2025–2027 *(expected)*
+- **LL.M. – Informatik & Recht** · Friedrich-Alexander-Universität (FAU) · 2025–2027 *(expected)*
   - Data management & analysis (SQL), process modelling, IT security law, data protection law
 - **LL.M. – Deutsches Recht** · Ludwig-Maximilians-Universität München (LMU) · 2024–2026
   - Copyright law, trademark law, AI & Law
   - Thesis: *Contractual and tortious liability for data protection violations*
-- **B.Law** · Zhongnan University of Economics and Law (China) · 2019–2023 · GPA: 1.9
+- **LL.B.** · Zhongnan University of Economics and Law (China) · 2019–2023 · GPA: 1.9
   - Civil law, intellectual property law, corporate law
 
 ---
