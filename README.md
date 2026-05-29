@@ -34,6 +34,26 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 
 ---
 
+## 📁 Projects
+
+**[GDPR Compliance Checklist](https://github.com/malala2409/GDPR-checklist)** · 2025
+
+> An interactive bilingual (EN/DE) web tool for GDPR compliance self-assessment. Features a structured checklist across 8 compliance areas, inline GDPR article references with explanations, a live progress tracker, and a website cookie scanner. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GDPR](https://img.shields.io/badge/Topic-GDPR%20%2F%20Data%20Protection-cd3b3b?style=flat-square)
+
+
+**Evaluation of AI Tools in Legal Research** · Beck-Online *(2025)*
+> Systematic analysis of Beck-Chat's research accuracy and legal reliability; produced an evaluation report with actionable recommendations.
+
+**Media Services Volunteer** · FISU World University Games, Germany *(2025)*
+> Coordinated press, organizers, and teams to facilitate smooth interview operations at the international event.
+
+---
+
 ## 🛠️ Skills
 
 **Legal Tech & Databases**
@@ -52,27 +72,6 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 **Languages**
 
 🇩🇪 German — C1 &nbsp;|&nbsp; 🇬🇧 English — Fluent &nbsp;|&nbsp; 🇨🇳 Chinese — Native
-
----
-
-## 📁 Projects
-
-**[GDPR Compliance Checklist](https://github.com/malala2409/GDPR-checklist)** · 2025
-
-> An interactive bilingual (EN/DE) web tool for GDPR compliance self-assessment. Features a structured checklist across 8 compliance areas, inline GDPR article references with explanations, a live progress tracker, and a website cookie scanner. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GDPR](https://img.shields.io/badge/Topic-GDPR%20%2F%20Data%20Protection-cd3b3b?style=flat-square)
-
----
-
-**Evaluation of AI Tools in Legal Research** · Beck-Online *(2025)*
-> Systematic analysis of Beck-Chat's research accuracy and legal reliability; produced an evaluation report with actionable recommendations.
-
-**Media Services Volunteer** · FISU World University Games, Germany *(2025)*
-> Coordinated press, organizers, and teams to facilitate smooth interview operations at the international event.
 
 ---
 
