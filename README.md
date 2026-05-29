@@ -57,7 +57,7 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 
 ## 📁 Projects
 
-**[GDPR Compliance Checklist](https://github.com/malala2409/gdpr-checklist)** · 2025
+**[GDPR Compliance Checklist](https://github.com/malala2409/GDPR-checklist)** · 2025
 
 > An interactive bilingual (EN/DE) web tool for GDPR compliance self-assessment. Features a structured checklist across 8 compliance areas, inline GDPR article references with explanations, a live progress tracker, and a website cookie scanner. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
