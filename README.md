@@ -2,25 +2,25 @@
 
 **LL.M. Student in Computer Science & Law @ FAU Erlangen-Nürnberg**
 
-I'm a Chinese law student based in Germany, specializing in the intersection of **compliance, information security, and data analysis**. Currently pursuing a dual master's path — Informatik & Recht at FAU and Deutsches Recht at LMU Munich. I enjoy bridging legal frameworks and technology, especially around data protection and AI regulation.
+Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich-Alexander-Universität (FAU), Germany, passionate about data — from SQL-based analysis to building tools that make complex information accessible. I work at the intersection of regulation and technology, and embrace vibe coding to turn ideas into real products fast.
 
 ---
 
 ## 🎓 Education
 
-- **LL.M. – Informatik & Recht** · Friedrich-Alexander-Universität (FAU) · 2025–2027 *(expected)*
-  - Data management & analysis (SQL), process modelling, IT security law, data protection law
-- **LL.M. – Deutsches Recht** · Ludwig-Maximilians-Universität München (LMU) · 2024–2026
-  - Copyright law, trademark law, AI & Law
+- **LL.M. – Informatik & Recht** · Friedrich-Alexander-Universität (FAU) · Okt.2025–2027 *(expected)*
+  - Fokus: Data management & analysis (SQL), process modelling, IT security law, data protection law
+- **LL.M. – Deutsches Recht** · Ludwig-Maximilians-Universität München (LMU) · Okt.2024–Aug.2026
+  - Fokus: Copyright law, trademark law, AI & Law
   - Thesis: *Contractual and tortious liability for data protection violations*
-- **LL.B. - Rechtwissenschaft** · Zhongnan University of Economics and Law (China) · 2019–2023 · GPA: 1.9
-  - Civil law, intellectual property law, corporate law
+- **LL.B. - Rechtwissenschaft** · Zhongnan University of Economics and Law (China) · Sep.2019–Jun.2023
+- GPA: 1.9 Fokus: Civil law, intellectual property law, corporate law
 
 ---
 
 ## 💼 Experience
 
-**Legal & Compliance Intern** · Ocean Culture & Tourism Development GmbH *(2025)*
+**Legal & Compliance Intern** · Ocean Culture & Tourism Development GmbH *(Aug.2025-Okt.2025)*
 - Contract review and structuring with focus on data protection and outsourcing compliance
 - Legal risk analysis and preparation of management decision papers
 - Cross-functional collaboration with Legal, Operations, and IT
@@ -57,7 +57,7 @@ I'm a Chinese law student based in Germany, specializing in the intersection of 
 
 ## 📁 Projects
 
-**[GDPR Compliance Checklist](https://github.com/YOUR_GITHUB_USERNAME/gdpr-checklist)** · 2025
+**[GDPR Compliance Checklist](https://github.com/malala2409/gdpr-checklist)** · 2025
 
 > An interactive bilingual (EN/DE) web tool for GDPR compliance self-assessment. Features a structured checklist across 8 compliance areas, inline GDPR article references with explanations, a live progress tracker, and a website cookie scanner. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
 
@@ -84,7 +84,7 @@ I'm a Chinese law student based in Germany, specializing in the intersection of 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=malala2409&show_icons=true&theme=default&hide_border=true" height="140"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malala2409&layout=compact&theme=default&hide_border=true" height="140"/>
 </p>
