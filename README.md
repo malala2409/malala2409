@@ -56,18 +56,18 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 
 ## 🛠️ Skills
 
-**Legal Tech & Databases**
-
-[![Westlaw](https://img.shields.io/badge/Westlaw-003366?style=flat-square)](https://legal.thomsonreuters.com/en/westlaw)
-[![Beck-Online](https://img.shields.io/badge/Beck--Online-CC0000?style=flat-square)](https://www.beck-online.de)
-[![Juris](https://img.shields.io/badge/Juris-444444?style=flat-square)](https://www.juris.de)
-
 **Technical**
 
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+
+**Legal Tech & Databases**
+
+[![Westlaw](https://img.shields.io/badge/Westlaw-003366?style=flat-square)](https://legal.thomsonreuters.com/en/westlaw)
+[![Beck-Online](https://img.shields.io/badge/Beck--Online-CC0000?style=flat-square)](https://www.beck-online.de)
+[![Juris](https://img.shields.io/badge/Juris-444444?style=flat-square)](https://www.juris.de)
 
 **Languages**
 
