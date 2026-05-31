@@ -81,9 +81,3 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 📞 +49 (0)174 2707466
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malala2409&show_icons=true&theme=default&hide_border=true" height="140"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malala2409&layout=compact&theme=default&hide_border=true" height="140"/>
-</p>
