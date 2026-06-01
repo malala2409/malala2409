@@ -6,51 +6,53 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 
 ---
 
-## 🎓 Education
-
-- **LL.M. – Informatik & Recht** · Friedrich-Alexander-Universität (FAU) · Okt.2025–2027 *(expected)*
-  - Fokus: Data management & analysis (SQL), process modelling, IT security law, data protection law
-- **LL.M. – Deutsches Recht** · Ludwig-Maximilians-Universität München (LMU) · Okt.2024–Aug.2026
-  - Fokus: Copyright law, trademark law, AI & Law
-  - Thesis: *Contractual and tortious liability for data protection violations*
-- **LL.B. - Rechtwissenschaft** · Zhongnan University of Economics and Law (China) · Sep.2019–Jun.2023
-- GPA: 1.9 Fokus: Civil law, intellectual property law, corporate law
-
----
-
-## 💼 Experience
-
-**Legal & Compliance Intern** · Ocean Culture & Tourism Development GmbH *(Aug.2025-Okt.2025)*
-- Contract review and structuring with focus on data protection and outsourcing compliance
-- Legal risk analysis and preparation of management decision papers
-- Cross-functional collaboration with Legal, Operations, and IT
-
-**Student Assistant – Legal Department** · University in China *(2021–2022)*
-- Digitization and structured management of legal documents via IT-supported process optimization
-- SQL-based analysis of administrative data to identify optimization potential
-
-**Judicial Intern** · Higher Regional Court Shandong *(2021)*
-- Assisted in drafting judgment documents and digital archiving
-
----
-
 ## 📁 Projects
 
-**[GDPR Compliance Checklist](https://github.com/malala2409/GDPR-checklist)** · 2025
+### 📋 Vertragsmanagementsystem · Contract Management System
 
-> An interactive bilingual (EN/DE) web tool for GDPR compliance self-assessment. Features a structured checklist across 8 compliance areas, inline GDPR article references with explanations, a live progress tracker, and a website cookie scanner. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies.
+[![Repo](https://img.shields.io/badge/GitHub-malala2409/contract--system-blue?style=flat-square&logo=github)](https://github.com/malala2409/contract-system-Vertragsmanagementsystem)
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://malala2409.github.io/contract-system/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/malala2409/contract-system-Vertragsmanagementsystem/blob/main/LICENSE)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GDPR](https://img.shields.io/badge/Topic-GDPR%20%2F%20Data%20Protection-cd3b3b?style=flat-square)
+Eine webbasierte Anwendung zur **Verwaltung, Befüllung und rechtlichen Prüfung von Vertragsvorlagen** nach deutschem Zivilrecht (BGB). Verfügbar in zwei Versionen: einer reinen **Browser-Version** (Vanilla JS + localStorage, kein Server nötig) und einer **Flask-Version** mit SQLite-Backend für den Multi-User-Einsatz.
 
+**Kernfunktionen:**
+- 📁 **Vorlagenverwaltung** — 7 BGB-Vertragstypen (Kauf-, Miet-, Dienst-, Werk-, Darlehens-, Arbeitsvertrag, NDA) mit zweisprachigen Klauseltexten
+- ✍️ **Vertriebsportal** — Zweistufiger Ausfüllprozess (strukturiertes Formular + Freitextbearbeitung), Vorschau mit farblich markierten Platzhaltern, personalisierte Einreichungsübersicht
+- 🔍 **Prüfungs-Workflow** — Status-Automation (Eingereicht → Genehmigt / Abgelehnt), additive Prüfnotizen mit Zeitstempel und Verlaufshistorie, Überarbeitungsschleife bei Ablehnung
+- 🛠 **Template-Editor** — Visueller Section-Editor + Drag-and-Drop-Assistent zum Zusammenstellen neuer Vorlagen aus vordefinierten Bausteinen
+- 🌐 **Vollständig zweisprachig** — DE/EN-Internationalisierung mit 164+ Übersetzungsschlüsseln, alle UI-Texte und Vertragsklauseln bilingual
+- 📎 **Dokumenten-Upload** — Word (.docx) und PDF-Anhänge mit Download-Funktion
 
-**Evaluation of AI Tools in Legal Research** · Beck-Online *(2025)*
-> Systematic analysis of Beck-Chat's research accuracy and legal reliability; produced an evaluation report with actionable recommendations.
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.1-red?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Topic](https://img.shields.io/badge/Topic-Contract%20Law%20%2F%20BGB-2563eb?style=flat-square)
 
-**Media Services Volunteer** · FISU World University Games, Germany *(2025)*
-> Coordinated press, organizers, and teams to facilitate smooth interview operations at the international event.
+---
+
+### 🔒 GDPR Compliance Checklist
+
+[![Repo](https://img.shields.io/badge/GitHub-malala2409/GDPR--checklist-blue?style=flat-square&logo=github)](https://github.com/malala2409/GDPR-checklist)
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://malala2409.github.io/GDPR-checklist/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/malala2409/GDPR-checklist/blob/main/LICENSE)
+
+Ein interaktives, zweisprachiges Web-Tool zur **DSGVO-Compliance-Selbstbewertung**, entwickelt für Datenschutzbeauftragte, Juristen und Compliance-Verantwortliche. Läuft vollständig im Browser — kein Server, keine Abhängigkeiten.
+
+**Kernfunktionen:**
+- 📋 **Interaktive Checkliste** — 8 Themenbereiche mit 47+ DSGVO-Prüfpunkten, inkl. Artikel-Referenzen und BDSG/TTDSG-Bezügen. Ein-Klick-Erledigung mit visuellem Fortschrittsbalken, Persistenz via localStorage
+- 🔍 **Dokumenten-Scanner** — Keyword-basierte Analyse mit 30+ Regex-Patterns (DE + EN) + **KI-gestützte Prüfung** via Anthropic Claude API mit semantischer Analyse, Zitaten und Begründungen. Unterstützt PDF (PDF.js), DOCX (Mammoth.js), TXT, JSON, CSV
+- 📜 **Gesetzestexte auf Knopfdruck** — Über 50 Artikel und Paragraphen aus DSGVO, BDSG und TTDSG direkt im Modal abrufbar (DE + EN), Bereichsreferenzen (z.B. Art. 44–49) automatisch aufgelöst
+- 📊 **Export-Funktionen** — HTML-Report mit zweispaltigem Layout (Originaltext mit Markierungen + zugeordnete Vorschriften) und interaktiven Beweis-Zitaten; PDF-Export via `window.print()`
+- 🌐 **Vollständig zweisprachig** — Alle UI-Texte, Checklistenpunkte, Scan-Patterns und Gesetzestexte bilingual DE/EN
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Claude API](https://img.shields.io/badge/Claude_API-Sonnet_4.6-d97706?style=flat-square)
+![Topic](https://img.shields.io/badge/Topic-GDPR%20%2F%20Data%20Protection-cd3b3b?style=flat-square)
 
 ---
 
