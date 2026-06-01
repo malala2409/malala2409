@@ -24,12 +24,12 @@ Eine webbasierte Anwendung zur **Verwaltung, Befüllung und rechtlichen Prüfung
 - **Vollständig zweisprachig** — DE/EN-Internationalisierung mit 164+ Übersetzungsschlüsseln, alle UI-Texte und Vertragsklauseln bilingual
 - **Dokumenten-Upload** — Word (.docx) und PDF-Anhänge mit Download-Funktion
 
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3.1-red?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Topic](https://img.shields.io/badge/Topic-Contract%20Law%20%2F%20BGB-2563eb?style=flat-square)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Flask](https://img.shields.io/badge/Flask-3.1-red?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+[![Topic](https://img.shields.io/badge/Topic-Contract%20Law%20%2F%20BGB-2563eb?style=flat-square)](https://www.gesetze-im-internet.de/bgb/)
 
 ---
 
@@ -48,11 +48,11 @@ Ein interaktives, zweisprachiges Web-Tool zur **DSGVO-Compliance-Selbstbewertung
 - **Export-Funktionen** — HTML-Report mit zweispaltigem Layout (Originaltext mit Markierungen + zugeordnete Vorschriften) und interaktiven Beweis-Zitaten; PDF-Export via `window.print()`
 - **Vollständig zweisprachig** — Alle UI-Texte, Checklistenpunkte, Scan-Patterns und Gesetzestexte bilingual DE/EN
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Claude API](https://img.shields.io/badge/Claude_API-Sonnet_4.6-d97706?style=flat-square)
-![Topic](https://img.shields.io/badge/Topic-GDPR%20%2F%20Data%20Protection-cd3b3b?style=flat-square)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Claude API](https://img.shields.io/badge/Claude_API-Sonnet_4.6-d97706?style=flat-square)](https://docs.anthropic.com/en/docs)
+[![Topic](https://img.shields.io/badge/Topic-GDPR%20%2F%20Data%20Protection-cd3b3b?style=flat-square)](https://gdpr-info.eu)
 
 ---
 
