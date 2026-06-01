@@ -11,8 +11,8 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 ### Vertragsmanagementsystem · Contract Management System
 
 [![Repo](https://img.shields.io/badge/GitHub-malala2409/contract--system-blue?style=flat-square&logo=github)](https://github.com/malala2409/contract-system-Vertragsmanagementsystem)
-[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://malala2409.github.io/contract-system/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/malala2409/contract-system-Vertragsmanagementsystem/blob/main/LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://pages.github.com)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 
 Eine webbasierte Anwendung zur **Verwaltung, Befüllung und rechtlichen Prüfung von Vertragsvorlagen** nach deutschem Zivilrecht (BGB). Verfügbar in zwei Versionen: einer reinen **Browser-Version** (Vanilla JS + localStorage, kein Server nötig) und einer **Flask-Version** mit SQLite-Backend für den Multi-User-Einsatz.
 
@@ -36,8 +36,8 @@ Eine webbasierte Anwendung zur **Verwaltung, Befüllung und rechtlichen Prüfung
 ### GDPR Compliance Checklist
 
 [![Repo](https://img.shields.io/badge/GitHub-malala2409/GDPR--checklist-blue?style=flat-square&logo=github)](https://github.com/malala2409/GDPR-checklist)
-[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://malala2409.github.io/GDPR-checklist/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/malala2409/GDPR-checklist/blob/main/LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://pages.github.com)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 
 Ein interaktives, zweisprachiges Web-Tool zur **DSGVO-Compliance-Selbstbewertung**, entwickelt für Datenschutzbeauftragte, Juristen und Compliance-Verantwortliche. Läuft vollständig im Browser — kein Server, keine Abhängigkeiten.
 
