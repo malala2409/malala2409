@@ -6,9 +6,9 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 
 ---
 
-## 📁 Projects
+## Projects
 
-### 📋 Vertragsmanagementsystem · Contract Management System
+### Vertragsmanagementsystem · Contract Management System
 
 [![Repo](https://img.shields.io/badge/GitHub-malala2409/contract--system-blue?style=flat-square&logo=github)](https://github.com/malala2409/contract-system-Vertragsmanagementsystem)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://malala2409.github.io/contract-system/)
@@ -17,12 +17,12 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 Eine webbasierte Anwendung zur **Verwaltung, Befüllung und rechtlichen Prüfung von Vertragsvorlagen** nach deutschem Zivilrecht (BGB). Verfügbar in zwei Versionen: einer reinen **Browser-Version** (Vanilla JS + localStorage, kein Server nötig) und einer **Flask-Version** mit SQLite-Backend für den Multi-User-Einsatz.
 
 **Kernfunktionen:**
-- 📁 **Vorlagenverwaltung** — 7 BGB-Vertragstypen (Kauf-, Miet-, Dienst-, Werk-, Darlehens-, Arbeitsvertrag, NDA) mit zweisprachigen Klauseltexten
-- ✍️ **Vertriebsportal** — Zweistufiger Ausfüllprozess (strukturiertes Formular + Freitextbearbeitung), Vorschau mit farblich markierten Platzhaltern, personalisierte Einreichungsübersicht
-- 🔍 **Prüfungs-Workflow** — Status-Automation (Eingereicht → Genehmigt / Abgelehnt), additive Prüfnotizen mit Zeitstempel und Verlaufshistorie, Überarbeitungsschleife bei Ablehnung
-- 🛠 **Template-Editor** — Visueller Section-Editor + Drag-and-Drop-Assistent zum Zusammenstellen neuer Vorlagen aus vordefinierten Bausteinen
-- 🌐 **Vollständig zweisprachig** — DE/EN-Internationalisierung mit 164+ Übersetzungsschlüsseln, alle UI-Texte und Vertragsklauseln bilingual
-- 📎 **Dokumenten-Upload** — Word (.docx) und PDF-Anhänge mit Download-Funktion
+- **Vorlagenverwaltung** — 7 BGB-Vertragstypen (Kauf-, Miet-, Dienst-, Werk-, Darlehens-, Arbeitsvertrag, NDA) mit zweisprachigen Klauseltexten
+- **Vertriebsportal** — Zweistufiger Ausfüllprozess (strukturiertes Formular + Freitextbearbeitung), Vorschau mit farblich markierten Platzhaltern, personalisierte Einreichungsübersicht
+- **Prüfungs-Workflow** — Status-Automation (Eingereicht → Genehmigt / Abgelehnt), additive Prüfnotizen mit Zeitstempel und Verlaufshistorie, Überarbeitungsschleife bei Ablehnung
+- **Template-Editor** — Visueller Section-Editor + Drag-and-Drop-Assistent zum Zusammenstellen neuer Vorlagen aus vordefinierten Bausteinen
+- **Vollständig zweisprachig** — DE/EN-Internationalisierung mit 164+ Übersetzungsschlüsseln, alle UI-Texte und Vertragsklauseln bilingual
+- **Dokumenten-Upload** — Word (.docx) und PDF-Anhänge mit Download-Funktion
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.1-red?style=flat-square&logo=flask&logoColor=white)
@@ -33,7 +33,7 @@ Eine webbasierte Anwendung zur **Verwaltung, Befüllung und rechtlichen Prüfung
 
 ---
 
-### 🔒 GDPR Compliance Checklist
+### GDPR Compliance Checklist
 
 [![Repo](https://img.shields.io/badge/GitHub-malala2409/GDPR--checklist-blue?style=flat-square&logo=github)](https://github.com/malala2409/GDPR-checklist)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://malala2409.github.io/GDPR-checklist/)
@@ -42,11 +42,11 @@ Eine webbasierte Anwendung zur **Verwaltung, Befüllung und rechtlichen Prüfung
 Ein interaktives, zweisprachiges Web-Tool zur **DSGVO-Compliance-Selbstbewertung**, entwickelt für Datenschutzbeauftragte, Juristen und Compliance-Verantwortliche. Läuft vollständig im Browser — kein Server, keine Abhängigkeiten.
 
 **Kernfunktionen:**
-- 📋 **Interaktive Checkliste** — 8 Themenbereiche mit 47+ DSGVO-Prüfpunkten, inkl. Artikel-Referenzen und BDSG/TTDSG-Bezügen. Ein-Klick-Erledigung mit visuellem Fortschrittsbalken, Persistenz via localStorage
-- 🔍 **Dokumenten-Scanner** — Keyword-basierte Analyse mit 30+ Regex-Patterns (DE + EN) + **KI-gestützte Prüfung** via Anthropic Claude API mit semantischer Analyse, Zitaten und Begründungen. Unterstützt PDF (PDF.js), DOCX (Mammoth.js), TXT, JSON, CSV
-- 📜 **Gesetzestexte auf Knopfdruck** — Über 50 Artikel und Paragraphen aus DSGVO, BDSG und TTDSG direkt im Modal abrufbar (DE + EN), Bereichsreferenzen (z.B. Art. 44–49) automatisch aufgelöst
-- 📊 **Export-Funktionen** — HTML-Report mit zweispaltigem Layout (Originaltext mit Markierungen + zugeordnete Vorschriften) und interaktiven Beweis-Zitaten; PDF-Export via `window.print()`
-- 🌐 **Vollständig zweisprachig** — Alle UI-Texte, Checklistenpunkte, Scan-Patterns und Gesetzestexte bilingual DE/EN
+- **Interaktive Checkliste** — 8 Themenbereiche mit 47+ DSGVO-Prüfpunkten, inkl. Artikel-Referenzen und BDSG/TTDSG-Bezügen. Ein-Klick-Erledigung mit visuellem Fortschrittsbalken, Persistenz via localStorage
+- **Dokumenten-Scanner** — Keyword-basierte Analyse mit 30+ Regex-Patterns (DE + EN) + **KI-gestützte Prüfung** via Anthropic Claude API mit semantischer Analyse, Zitaten und Begründungen. Unterstützt PDF (PDF.js), DOCX (Mammoth.js), TXT, JSON, CSV
+- **Gesetzestexte auf Knopfdruck** — Über 50 Artikel und Paragraphen aus DSGVO, BDSG und TTDSG direkt im Modal abrufbar (DE + EN), Bereichsreferenzen (z.B. Art. 44–49) automatisch aufgelöst
+- **Export-Funktionen** — HTML-Report mit zweispaltigem Layout (Originaltext mit Markierungen + zugeordnete Vorschriften) und interaktiven Beweis-Zitaten; PDF-Export via `window.print()`
+- **Vollständig zweisprachig** — Alle UI-Texte, Checklistenpunkte, Scan-Patterns und Gesetzestexte bilingual DE/EN
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -56,7 +56,7 @@ Ein interaktives, zweisprachiges Web-Tool zur **DSGVO-Compliance-Selbstbewertung
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Technical**
 
@@ -73,13 +73,13 @@ Ein interaktives, zweisprachiges Web-Tool zur **DSGVO-Compliance-Selbstbewertung
 
 **Languages**
 
-🇩🇪 German — C1 &nbsp;|&nbsp; 🇬🇧 English — Fluent &nbsp;|&nbsp; 🇨🇳 Chinese — Native
+German — C1 &nbsp;|&nbsp; English — Fluent &nbsp;|&nbsp; Chinese — Native
 
 ---
 
-## 📬 Contact
+## Contact
 
-📧 [yihan.ma@fau.de](mailto:yihan.ma@fau.de)
-📞 +49 (0)174 2707466
+[yihan.ma@fau.de](mailto:yihan.ma@fau.de)
++49 (0)174 2707466
 
 ---
