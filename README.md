@@ -33,7 +33,7 @@ Eine webbasierte Anwendung zur **Verwaltung, Befüllung und rechtlichen Prüfung
 
 ---
 
-### GDPR Compliance Checklist
+### [GDPR Compliance Checklist](https://github.com/malala2409/GDPR-checklist)
 
 [![Repo](https://img.shields.io/badge/GitHub-malala2409/GDPR--checklist-blue?style=flat-square&logo=github)](https://github.com/malala2409/GDPR-checklist)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-green?style=flat-square)](https://pages.github.com)
