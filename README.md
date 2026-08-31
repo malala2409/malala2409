@@ -8,6 +8,27 @@ Master's student in **Informatik & Recht (Computer Science & Law)** at Friedrich
 
 ## Projects
 
+### [Privacy Analyzer](https://github.com/malala2409/privacy-analyzer)
+
+[![Repo](https://img.shields.io/badge/GitHub-malala2409/privacy--analyzer-blue?style=flat-square&logo=github)](https://github.com/malala2409/privacy-analyzer)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
+
+Ein zweisprachiges (DE/EN) Web-Tool, das eine eingefügte **Datenschutzerklärung analysiert** und verständlich aufschlüsselt: welche personenbezogenen Daten und Geräteberechtigungen erfasst werden, an welche Dritte Daten fließen, auf welcher Rechtsgrundlage und wie lange gespeichert wird — jeweils mit Zuordnung zu den einschlägigen **DSGVO- und BDSG-Vorschriften**.
+
+**Kernfunktionen:**
+- **KI-Analyse** — Multi-Modell-Gateway (lokales Ollama kostenlos ohne API-Key, DeepSeek, OpenAI, Qwen, GLM, Claude) mit strukturierter JSON-Extraktion, Zitaten und Risikostufen; Offline-Keyword-Fallback
+- **16 Datenkategorien & 10 Berechtigungen** — inkl. besonderer Kategorien (Gesundheit, Biometrie, Genetik, Straftaten) mit automatischer Risikoeinstufung
+- **Rechtsvorschriften** — DSGVO (Art. 4–9, 10, 22, 88 …) und BDSG (§ 4, 22, 26, 30, 31, 37 …) auf Knopfdruck
+- **Report-Export** — HTML/PDF mit farblich markiertem Originaltext und zugeordneten Vorschriften
+- **Vollständig zweisprachig** — DE/EN-Umschaltung
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![Ollama](https://img.shields.io/badge/Ollama-local_LLM-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
+[![Topic](https://img.shields.io/badge/Topic-GDPR%20%2F%20BDSG-cd3b3b?style=flat-square)](https://gdpr-info.eu)
+
+---
+
 ### [Vertragsmanagementsystem · Contract Management System](https://github.com/malala2409/contract-system-Vertragsmanagementsystem)
 
 [![Repo](https://img.shields.io/badge/GitHub-malala2409/contract--system-blue?style=flat-square&logo=github)](https://github.com/malala2409/contract-system-Vertragsmanagementsystem)
@@ -53,6 +74,22 @@ Ein interaktives, zweisprachiges Web-Tool zur **DSGVO-Compliance-Selbstbewertung
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Claude API](https://img.shields.io/badge/Claude_API-Sonnet_4.6-d97706?style=flat-square)](https://docs.anthropic.com/en/docs)
 [![Topic](https://img.shields.io/badge/Topic-GDPR%20%2F%20Data%20Protection-cd3b3b?style=flat-square)](https://gdpr-info.eu)
+
+---
+
+### [LexCortex — Fristen- und Fallmanagement](https://github.com/malala2409/LexCortex---Case-Management)
+
+[![Repo](https://img.shields.io/badge/GitHub-malala2409/LexCortex-blue?style=flat-square&logo=github)](https://github.com/malala2409/LexCortex---Case-Management)
+
+Ein webbasiertes Tool zur **Verwaltung von Gerichtsverfahren, Fristen und Aufgaben**, entwickelt im Rahmen des Moduls „Informatik 2 für Nebenfachstudierende" an der FAU Erlangen-Nürnberg.
+
+**Kernfunktionen:**
+- **Dashboard** — schneller Überblick über aktive Fälle, diese Woche anstehende Fristen und überfällige Aufgaben
+- **Verfahrensphasen** — konfigurierbare Phasen pro Fall
+- PHP-basiert
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
+[![Topic](https://img.shields.io/badge/Topic-Legal%20Case%20Management-2563eb?style=flat-square)](https://github.com/malala2409/LexCortex---Case-Management)
 
 ---
 
