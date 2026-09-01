@@ -116,7 +116,6 @@ German — C1 &nbsp;|&nbsp; English — Fluent &nbsp;|&nbsp; Chinese — Native
 
 ## Contact
 
-[yihan.ma@fau.de](mailto:yihan.ma@fau.de)
-+49 (0)174 2707466
+[mayihan0902@foxmail.com](mailto:mayihan0902@foxmail.com)
 
 ---
